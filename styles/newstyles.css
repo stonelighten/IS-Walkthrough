@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(132, 233, 216);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    color:navy;
+    text-decoration: underline;
+    text-align: center;
+}
